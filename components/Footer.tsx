@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Footer = () => {
-    return (
-        <div>Footer</div>
-    )
-}
+  return <div className="max-width padding-x">Footer</div>;
+};
 
-export default Footer
+export default Footer;
